@@ -17,6 +17,7 @@
   <img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/js.png" width="70" /> 
   <img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Typescript_logo_2020.svg.png" width="70" /> 
   <img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/php.png" width="70" /> 
+  <br/>
   <img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/800px-Nextjs-logo.svg.png" width="70" /> 
   <img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Expressjs.png" width="70" /> 
   <img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/django-logo.png" width="70" /> 
