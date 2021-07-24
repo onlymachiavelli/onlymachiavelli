@@ -7,11 +7,12 @@
 
 
 <hr/>
+<br/>
 <h1>My Skills : </h1>
 <h2>WEB : </h2>
 <ul>
   <li>
-    <img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/html.png" width=""20 />
+    <img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/html.png" width="100" />
   </li>
 </ul>
 
