@@ -30,3 +30,6 @@
   <a href="https://www.linkedin.com/in/alaa-ddin-472a651b9/" target="_blank"><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/link.png" /></a>
 </p>
 <br/>
+
+YOU SHOULD WATCH MR ROBOT AND SILICON VALLEY !
+<br/>
