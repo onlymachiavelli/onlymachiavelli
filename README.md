@@ -1,6 +1,5 @@
-### Hi there 👋
-
-####fuck
+### Hello World ! 👋
+My name is Alaaddin AKA Machiavelli
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
