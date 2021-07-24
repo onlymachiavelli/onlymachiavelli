@@ -3,6 +3,7 @@
 <br/>
 
   My Name is Alaaddin AKA Machiavelli, Self taugh Programmer, Coder
+  <br/>
   Fcking addicted to coffee ☕
   
 
@@ -20,5 +21,7 @@
 <br/>
 <h2>UI UX , PROTOTYPE, VIDEO, IMAGE... 🖌️</h2>
 <img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/ui.png" width="100%" />
+
+<br/>
 
 <br/>
