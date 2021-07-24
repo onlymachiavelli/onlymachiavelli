@@ -9,7 +9,8 @@
 <hr/>
 <br/>
 <h1>My Skills : </h1>
-<h2>WEB : 💻</h2>
+<br/>
+<img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/languages.png" width="100%"  />
 
 
 
