@@ -2,7 +2,7 @@
 <h1 align="center">Hello Universe ! 👋 👋</h1>
 <br/>
 
-  My Name is Alaaddin AKA Machiavelli, Self taugh Programmer, Coder
+  My Name is Alaaddin AKA Machiavelli, Self taught Programmer, Coder
   <br/>
   Fcking addicted to coffee ☕
   
