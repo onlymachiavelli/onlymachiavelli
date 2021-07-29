@@ -31,5 +31,3 @@
 </p>
 <br/>
 
-YOU SHOULD WATCH MR ROBOT AND SILICON VALLEY !
-<br/>
