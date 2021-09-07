@@ -9,6 +9,7 @@
 
 
 <hr/>
+<!--
 <br/>
 <h1>My Skills : </h1>
 <br/>
@@ -22,6 +23,7 @@
 <h2>UI UX , PROTOTYPE, VIDEO, IMAGE... 🖌️</h2>
 <img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/ui.png" width="100%" />
 
+-->
 <br/>
 <h1>Social Media :</h1>
 <p align="center">
