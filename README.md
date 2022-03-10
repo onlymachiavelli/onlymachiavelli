@@ -20,7 +20,7 @@
   <a href="https://instagram.com/onlymachiavelli" target="_blank"><img src="https://pics.freeicons.io/uploads/icons/png/6590558241561032669-512.png"  width="30" height="30" /></a>
   <a href="https://twitter.com/onlymachiavelli" target="_blank"><img   width="30" height="30"  src="https://pics.freeicons.io/uploads/icons/png/5959933821530099343-512.png" /></a>
   <a href="https://www.linkedin.com/in/alaa-ddin-472a651b9/" target="_blank"><img   width="30" height="30"  src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" /></a>
-  <a href="https://www.pinterest.co.uk/onlymachiavelli/_saved/" target="_blank" > <img   width="30" height="30"  src="https://pics.freeicons.io/uploads/icons/png/16071848691579517868-512.png" /></a>
+  <a href="https://www.pinterest.co.uk/onlymachiavelli/_saved/" target="_blank" > <img width="30" height="30" src="https://pics.freeicons.io/uploads/icons/png/16071848691579517868-512.png" /></a>
 </p>
 <br/>
 <!--
