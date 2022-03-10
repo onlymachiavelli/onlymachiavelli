@@ -10,6 +10,7 @@
   <br/>
   Skilled IN : 
   <h2>Languages : </h2>
+  <br/><br/>
   <p align="center">
   <a href="#">  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" height="40" />
 </a>
@@ -22,7 +23,15 @@
   <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/12110150411537355600-512.png" width="40" height="40" /></a>
   
 </p>
-  
+ <!--
+ <h2>Technologies : </h2>
+  <p aling="center">
+  <a href="" ><img src="https://img.icons8.com/color/344/react-native.png" width="40" height="40" /></a>
+  <a href="" ><img src="" width="40" height="40" /></a>
+  <a href="" ><img src="" width="40" height="40" /></a>
+  <a href="" ><img src="" width="40" height="40" /></a>
+</p>
+-->
  
   <br/>
   
