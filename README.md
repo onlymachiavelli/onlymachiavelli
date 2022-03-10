@@ -11,7 +11,7 @@
   Skilled IN : 
   <h2>Languages : </h2>
   <p align="center">
-  <a href="#">  <img src="https://pics.freeicons.io/uploads/icons/png/20411958881579518946-512.png" width="40" height="40" />
+  <a href="#">  <img src="https://pics.freeicons.io/uploads/icons/png/20411958881579518946-512.png" width="40" height="auto" />
 </a>
     <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" width="40" height="40" /></a>
       <a href="#"><a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" width="40" height="40" /></a>
