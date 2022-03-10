@@ -11,7 +11,7 @@
   Skilled IN : 
   <h2>Languages : </h2>
   <p align="center">
-  <a href="#">  <img src="https://pics.freeicons.io/uploads/icons/png/15508249021579519636-512.png" width="40" height="40" />
+  <a href="#">  <img src="https://pics.freeicons.io/uploads/icons/png/20411958881579518946-512.png" width="40" height="40" />
 </a>
     <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" width="40" height="40" /></a>
       <a href="#"><a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" width="40" height="40" /></a>
@@ -19,7 +19,7 @@
   <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/2765419221551942634-512.png" width="40" height="40" /></a>
   <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" width="40" height="40" /></a>
   <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/9096637371536208089-512.png" width="40" height="40" /></a>
-  <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/14801979961548330928-512.png" width="40" height="40" /></a>
+  <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/12110150411537355600-512.png" width="40" height="40" /></a>
   
 </p>
   
