@@ -3,7 +3,7 @@
 -->
 <h1 align="center">Hello Universe ! 👋 👋 </h1>
 <br/><br/>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="300" height="200" />
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="300" height="200" />
 <br/><br/>
 
   My Name is Alaaddin, Self taught Programmer, Coder
