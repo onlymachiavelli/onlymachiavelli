@@ -18,7 +18,7 @@
       <a href="#"><a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" width="40" height="40" /></a>&nbsp;
   <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" width="40" height="40" /></a>&nbsp;
   <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/2765419221551942634-512.png" width="40" height="40" /></a>&nbsp;
-  <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" width="40" height="40" /></a>&nbsp;
+  <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" width="auto" height="40" /></a>&nbsp;
   <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/9096637371536208089-512.png" width="40" height="40" /></a>&nbsp;
   <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/12110150411537355600-512.png" width="40" height="40" /></a>
   
