@@ -14,12 +14,12 @@
   <p align="center">
   <a href="#">  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" height="40" />
 </a>
-    <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" width="40" height="40" /></a>
-      <a href="#"><a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" width="40" height="40" /></a>
-  <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" width="40" height="40" /></a>
-  <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/2765419221551942634-512.png" width="40" height="40" /></a>
-  <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" width="40" height="40" /></a>
-  <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/9096637371536208089-512.png" width="40" height="40" /></a>
+    <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" width="40" height="40" /></a>&nbsp;
+      <a href="#"><a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" width="40" height="40" /></a>&nbsp;
+  <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" width="40" height="40" /></a>&nbsp;
+  <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/2765419221551942634-512.png" width="40" height="40" /></a>&nbsp;
+  <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" width="40" height="40" /></a>&nbsp;
+  <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/9096637371536208089-512.png" width="40" height="40" /></a>&nbsp;
   <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/12110150411537355600-512.png" width="40" height="40" /></a>
   
 </p>
@@ -28,7 +28,7 @@
   <p align="center">
   <a href="" ><img src="https://img.icons8.com/color/344/react-native.png" width="40" height="40" /></a>&nbsp;
   <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector.svg" width="auto" height="40" /></a>&nbsp;
-  <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector%20(1).svg" width="auto" height="40" /></a>&nbsp;
+  <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector%20(1).svg" width="auto" height="40" /></a>&nbsp;&nbsp;
   <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector%20(2).svg" width="auto" height="37" /></a>
 </p>
  
