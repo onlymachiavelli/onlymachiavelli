@@ -27,9 +27,9 @@
  <h2>Technologies : </h2>
   <p align="center">
   <a href="" ><img src="https://img.icons8.com/color/344/react-native.png" width="40" height="40" /></a>
-  <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector.svg" width="40" height="40" /></a>
-  <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector%20(1).svg" width="140" height="40" /></a>
-  <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector%20(2).svg" width="200" height="40" /></a>
+  <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector.svg" width="auto" height="40" /></a>
+  <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector%20(1).svg" width="auto" height="40" /></a>
+  <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector%20(2).svg" width="auto" height="40" /></a>
 </p>
  
   <br/>
