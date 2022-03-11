@@ -3,8 +3,6 @@
 -->
 <h1 align="center">Hello Universe ! 👋 👋 </h1>
 <br/><br/>
-<embed src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="300" height="200" />
-<br/><br/>
 
   My Name is Alaaddin, Self taught Programmer, Coder
   <br/>
@@ -25,15 +23,14 @@
   <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/12110150411537355600-512.png" width="40" height="40" /></a>
   
 </p>
- <!--
+ 
  <h2>Technologies : </h2>
   <p aling="center">
   <a href="" ><img src="https://img.icons8.com/color/344/react-native.png" width="40" height="40" /></a>
-  <a href="" ><img src="" width="40" height="40" /></a>
+  <a href="" ><img src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01-1024x706.png" width="40" height="40" /></a>
   <a href="" ><img src="" width="40" height="40" /></a>
   <a href="" ><img src="" width="40" height="40" /></a>
 </p>
--->
  
   <br/>
   
