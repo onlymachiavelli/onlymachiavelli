@@ -27,7 +27,7 @@
  <h2>Technologies : </h2>
   <p align="center">
   <a href="" ><img src="https://img.icons8.com/color/344/react-native.png" width="40" height="40" /></a>
-  <a href="" ><img src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01-1024x706.png" width="40" height="80" /></a>
+  <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector.svg" width="40" height="40" /></a>
   <a href="" ><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="140" height="40" /></a>
   <a href="" ><img src="" width="40" height="40" /></a>
 </p>
