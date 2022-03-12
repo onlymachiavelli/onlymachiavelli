@@ -28,7 +28,7 @@
   <p align="center">
   <a href="" ><img src="https://img.icons8.com/color/344/react-native.png" width="40" height="40" /></a>&nbsp;
   <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector.svg" width="auto" height="40" /></a>&nbsp;
-  <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector%20(3).svg" height="40" width="auto" /></a>
+  <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector%20(3).svg" height="30" width="auto" /></a>&nbsp;
   <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector%20(1).svg" width="auto" height="40" /></a>&nbsp;&nbsp;
   <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector%20(2).svg" width="auto" height="37" /></a>
 </p>
