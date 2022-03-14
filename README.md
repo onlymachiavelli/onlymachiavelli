@@ -1,6 +1,10 @@
 <!--
 <p align="center"><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/elmo.png" height="120"/></p>
 -->
+  <br/>
+  <p align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/dadparrot.gif" width="50" height="50" /></p>
+
+<br/>
 <h1 align="center">Hello Universe ! 👋 👋 </h1>
 <br/><br/>
 
