@@ -21,7 +21,7 @@
   Skilled IN : 
   <h2>Languages : </h2>
   <br/><br/>
-  <p align="center">
+  <p>
   <a href="#">  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" height="40" />
 </a>
     <a href="#"><img src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" width="40" height="40" /></a>&nbsp;
@@ -35,7 +35,7 @@
 </p>
  
  <h2>Technologies : </h2>
-  <p align="center">
+  <p>
   <a><img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif"  width="40" height="40" /></a>&nbsp;
   <a href="" ><img src="https://img.icons8.com/color/344/react-native.png" width="40" height="40" /></a>&nbsp;
   <a href="" ><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/Vector.svg" width="auto" height="40" /></a>&nbsp;
@@ -61,7 +61,7 @@
 <br/>
 <hr/>
 <br/>
-  <p align="center">
+  <p>
     <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/spyparrot.gif" width="auto" height="40" /></a>
     <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/frenchparrot.gif" width="auto" height="40" /></a>
     <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/imposterparrot.gif" width="auto" height="40" /></a>
