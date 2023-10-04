@@ -1,8 +1,10 @@
 <!--
 <p align="center"><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/elmo.png" height="120"/></p>
 -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlymachiavelli&show_icons=true&theme=radical)
+
   <br/>
-  <p align="center">
+  <p >
     <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="auto" height="70" /></a>
     <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="auto" height="70" /></a>
     <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="auto" height="70" /></a>
@@ -11,7 +13,7 @@
   </p>
 
 <br/>
-<h1 align="center">Hello Universe ! 👋 👋 </h1>
+<h1 >Hello Universe ! 👋 👋 </h1>
 <br/><br/>
 
   My Name is Alaaddin, Self taught Programmer, Coder
@@ -85,3 +87,4 @@
 <br/>
 
 -->
+
