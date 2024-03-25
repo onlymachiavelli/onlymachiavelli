@@ -1,7 +1,6 @@
 <!--
 <p align="center"><img src="https://github.com/onlymachiavelli/onlymachiavelli/blob/main/elmo.png" height="120"/></p>
 -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlymachiavelli&show_icons=true&theme=radical)
 
   <br/>
   <p >
